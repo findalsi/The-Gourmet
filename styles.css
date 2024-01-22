@@ -38,19 +38,27 @@ a:link {
   }
   
 
-  .carousel{
+.carousel{
     height: 1000px;
 
   }
 
-  .row{
+.row{
     color: rgb(248, 245, 251);
     text-align: center;
     margin-top: 50px;
   }
 
   
-  img{
+img{
     width: 100%;
     margin-top: 40px;
    }
+
+p{
+    color: aliceblue;
+ }
+
+h1{
+   color: aliceblue;
+ }
