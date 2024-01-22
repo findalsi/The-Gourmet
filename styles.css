@@ -64,6 +64,7 @@ h1{
    color: aliceblue;
  }
 
+<<<<<<< HEAD
  p{
   color: aliceblue;
 }
@@ -89,3 +90,25 @@ h2{
  text-align: center;
  
 }
+=======
+ .centre{ 
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+ }
+
+ .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+>>>>>>> e32617f48e21f25f29f5dae985a089020dff99af
