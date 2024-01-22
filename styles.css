@@ -47,5 +47,9 @@ a:link {
     color: rgb(248, 245, 251);
     text-align: center;
     margin-top: 50px;
-
   }
+
+  
+  img{
+    width: 100%;
+   }
