@@ -57,8 +57,35 @@ img{
 
 p{
     color: aliceblue;
+    text-align: left;
  }
 
 h1{
    color: aliceblue;
  }
+
+ p{
+  color: aliceblue;
+}
+
+.p1{
+text-align: center;
+color: aliceblue;
+}
+
+h1{
+ color: aliceblue;
+ text-align: center;
+ 
+}
+
+.btn {
+ background-color: #A8763E;
+}
+
+h2{
+ font-size: 20px;
+ color: aliceblue;
+ text-align: center;
+ 
+}
