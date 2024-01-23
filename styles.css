@@ -57,22 +57,8 @@ img{
 
 p{
     color: aliceblue;
-    text-align: left;
  }
 
-h1{
-   color: aliceblue;
- }
-
-<<<<<<< HEAD
- p{
-  color: aliceblue;
-}
-
-.p1{
-text-align: center;
-color: aliceblue;
-}
 
 h1{
  color: aliceblue;
@@ -90,7 +76,6 @@ h2{
  text-align: center;
  
 }
-=======
  .centre{ 
   width: 100%;
   height: auto;
@@ -111,4 +96,3 @@ h2{
   color: white;
 }
 
->>>>>>> e32617f48e21f25f29f5dae985a089020dff99af
