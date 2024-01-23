@@ -105,5 +105,48 @@ h2{
 .container {
   position: relative;
   text-align: center;
+<<<<<<< HEAD
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 10px; 
+  background-color: #333333
+  color(a98-rgb red green blue)
+
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.name1 {
+  text-align: left;
+  margin-right: 5px; 
+}
+
+.btn1 {
+  margin: 5px; 
+  padding: 8px 15px; 
+  background-color: #ecb215;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.image1,
+.image2 {
+  width: 25px; 
+  height: 25px; 
+  margin: 3px; 
+=======
   color: white;
+>>>>>>> 050909d046bea8e2fa93546bb293f9d0a8e32042
 }
