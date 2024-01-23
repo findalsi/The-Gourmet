@@ -105,7 +105,6 @@ h2{
 .container {
   position: relative;
   text-align: center;
-<<<<<<< HEAD
   color: white;
 }
 
@@ -131,7 +130,7 @@ footer {
   margin-right: 5px; 
 }
 
-.btn1 {
+.btn2 {
   margin: 5px; 
   padding: 8px 15px; 
   background-color: #ecb215;
@@ -146,7 +145,4 @@ footer {
   width: 25px; 
   height: 25px; 
   margin: 3px; 
-=======
-  color: white;
->>>>>>> 050909d046bea8e2fa93546bb293f9d0a8e32042
 }
