@@ -51,7 +51,6 @@ a:link {
 
 .row1{
     color: rgb(248, 245, 251);
-    text-align: left;
     margin-top: 50px;
   }
   
@@ -145,4 +144,14 @@ footer {
   width: 25px; 
   height: 25px; 
   margin: 3px; 
+}
+
+.carousel-inner{
+
+  height: 700px; 
+}
+
+carousel-indicators{
+
+  
 }
