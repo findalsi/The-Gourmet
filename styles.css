@@ -7,6 +7,12 @@ body
     
 }
 
+a.nav-link{
+
+  font-size: 18px;
+
+}
+
 
 a.navbar-brand{
 
@@ -14,23 +20,15 @@ a.navbar-brand{
   font-weight: 400;
   font-style: normal;
   color: #ffffff;
-  font-size: 64px;
+  font-size: 70px;
   margin-top: -20px;
   margin-bottom: -20px;
+  margin-left: 10px;
+  margin-right: 10px;
 
 }
 
 
-.logo
-{
-  font-size: 25px;
-  font-weight: bold;
-  letter-spacing: 6px;
-  color: rgb(248, 245, 251);
-  font-style: italic;
-  padding: auto;
-  
-}
 
 nav
 {
@@ -38,15 +36,17 @@ nav
 
 }
 
+
 nav li
 {
   display: inline;
-  margin-right: 60px;
-  margin-left: 60px;
+  margin-right: 50px;
+  margin-left: 50px;
   margin-top: 20px;
-  font-size: 18px;
-}
+  align-content: center;
 
+  
+}
 
 a:link {
     color: rgb(233, 233, 236);
@@ -83,9 +83,28 @@ a:link {
 
  p.text{
 
-  font-size: 12px;
+  font-size: 15px;
  }
 
+ p.logo{
+
+    font-family: "Puppies Play", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 35px;
+  
+  }
+  
+p.text2{
+  color: aliceblue;
+  font-size: 13px;
+}
+
+p.text3{
+  color: aliceblue;
+  font-size: 12px;
+}
 
 h7{
  color: aliceblue;
@@ -104,6 +123,7 @@ h8{
 .btn {
  background-color: #A8763E;
  border: #A8763E;
+ font-size: 14px;
 }
 
 
@@ -115,23 +135,19 @@ h8{
   width: 180px;
   border: black;
   align-items: center;
+  font-size: 14px;
 
  }
 
 
  .btn3{
 
-  font-size: 13px;
+  font-size: 14px;
   color: #ffffff;
   background-color: #A8763E;
   width: 120px;
   height: 40px;
   border: #A8763E;
-  
-
-  
-  
-  
   
  }
 
@@ -141,6 +157,13 @@ h8{
   width: 180px;
   border: white;
 
+ }
+
+ h1{
+  font-size: 35px;
+  color: aliceblue;
+  
+  
  }
 
 
@@ -201,30 +224,6 @@ h4{
   transform: translate(-50%, -50%);
   font-size: 16px;
 
-}
-
-
-
-footer {
-  text-align: center;
-  padding: 10px; 
-  background-color: #333333
-  color(a98-rgb red green blue)
-
-}
-
-.footer-content {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  margin-left: 300px;
-  margin-right: 300px;
-}
-
-.name1 {
-  text-align: left;
-  margin-right: 5px; 
 }
 
 .btn2 {
@@ -290,10 +289,7 @@ img{
 }
 
 
-.footer-content{
 
-  margin-top: ;
-}
 
 
 
