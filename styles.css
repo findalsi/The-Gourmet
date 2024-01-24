@@ -101,10 +101,20 @@ h8{
  }
 
 
- .btn-promo{
+ .btn3{
 
-  font-size: 12px;
+  font-size: 13px;
   color: #ffffff;
+  background-color: #A8763E;
+  width: 120px;
+  height: 40px;
+  border: #A8763E;
+  
+
+  
+  
+  
+  
  }
 
  .button{
